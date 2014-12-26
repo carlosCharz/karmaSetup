@@ -10,3 +10,10 @@ Getting ready to test AngularJS application with Karma (Test Runner) and Jasmine
 npm install -g karma
 npm install -g karma-cli
 ```
+
+
+##### Karma Installation
+
+```javascript
+karma start sample.conf.js
+```
